@@ -1,18 +1,60 @@
-## Getting Started
+# Práctica de Algoritmos de Ordenamiento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Información General
 
-## Folder Structure
+- **Título:** Práctica Sets
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** Yandri Eduardo Sanchez Yanza
+- **Fecha:** 01/07/2025
+- **Profesor:** Ing. Pablo Torres
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Descripción
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este proyecto explora y compara diferentes implementaciones de la interfaz `Set` en Java, permitiendo observar cómo varía el comportamiento en términos de almacenamiento y ordenamiento:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- `HashSet`
+- `LinkedHashSet`
+- `TreeSet`
+- `TreeSet` con comparador personalizado
+- `TreeSet` con comparador personalizado invertido
 
-## Dependency Management
+### Funcionalidades:
+- Instanciación de cada tipo de `Set` con los mismos valores para analizar diferencias.
+- Impresión de cada conjunto para verificar:
+  - Orden de almacenamiento.
+  - Ordenamiento natural vs personalizado.
+- Reflexión sobre el uso adecuado de cada estructura según su comportamiento y aplicación.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+💡 Esta práctica permite comprender las propiedades de implementación de los distintos tipos de sets, reforzando conceptos de ordenamiento, eficiencia y estructura de datos.
+
+---
+
+## 🚀 Ejecución
+
+Para ejecutar el proyecto:
+
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+---
+
+## 🧑‍💻 Ejemplo de Entrada
+
+
+
+---
+
+## 🧑‍💻 Ejemplo de Salida
+
+![Image](https://github.com/user-attachments/assets/9eac350a-5a78-4858-82c7-cbb2885213d8)
+
+---
