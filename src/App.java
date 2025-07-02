@@ -1,9 +1,13 @@
 
 import java.util.*;
 
+import Controllers.ContactoController;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sets = new Sets();
+
+        ContactoController contactoController = new ContactoController();
 
         runHashSet(sets);
         runLinkedHashSet(sets);

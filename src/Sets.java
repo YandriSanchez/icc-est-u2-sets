@@ -53,7 +53,7 @@ public class Sets{
        
         //Crear un comparator
         Comparator<String> comparadorLonguitud = new Comparator<String>() {
-            @Override
+            //@Override
             public int compare(String s1, String s2){
                 //Comparamos la longuitud
                 int result = Integer.compare(s1.length(), s2.length());
@@ -86,7 +86,7 @@ public class Sets{
        
         //Crear un comparator
         Comparator<String> comparadorLonguitud = new Comparator<String>() {
-            @Override
+            //@Override
             public int compare(String s1, String s2){
                 //Comparamos la longuitud
                 int result = Integer.compare(s2.length(), s1.length());
