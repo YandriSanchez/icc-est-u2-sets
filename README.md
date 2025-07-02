@@ -58,3 +58,9 @@ Para ejecutar el proyecto:
 ![Image](https://github.com/user-attachments/assets/9eac350a-5a78-4858-82c7-cbb2885213d8)
 
 ---
+
+## 🧑‍💻 Ejemplo de Salida segunda clase
+
+![Image](https://github.com/user-attachments/assets/3be73b1f-8658-4b4b-ac30-22d558edb1bd)
+
+---
